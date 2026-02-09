@@ -1,0 +1,8 @@
+Omics,file,link
+copy number,"gene-level copy number (gistic2) (n=10,845) ",https://tcga-xena-hub.s3.us-east-1.amazonaws.com/download/TCGA.PANCAN.sampleMap%2FGistic2_CopyNumber_Gistic2_all_data_by_genes.gz
+DNA methylation,"DNA methylation (Methylation450K) (n=9,639) ",https://tcga-pancan-atlas-hub.s3.us-east-1.amazonaws.com/download/jhu-usc.edu_PANCAN_HumanMethylation450.betaValue_whitelisted.tsv.synapse_download_5096262.xena.gz https://tcga-pancan-atlas-hub.s3.us-east-1.amazonaws.com/download/probeMap%2FilluminaMethyl450_hg19_GPL16304_TCGAlegacy
+gene expression RNAseq,"Batch effects normalized mRNA data (n=11,060)",https://tcga-pancan-atlas-hub.s3.us-east-1.amazonaws.com/download/EB%2B%2BAdjustPANCAN_IlluminaHiSeq_RNASeqV2.geneExp.xena.gz
+miRNA,"Batch effects normalized miRNA data (n=10,818)",https://tcga-pancan-atlas-hub.s3.us-east-1.amazonaws.com/download/pancanMiRs_EBadjOnProtocolPlatformWithoutRepsWithUnCorrectMiRs_08_04_16.xena.gz
+phenotype,"Curated clinical data (n=12,591)",https://tcga-pancan-atlas-hub.s3.us-east-1.amazonaws.com/download/Survival_SupplementalTable_S1_20171025_xena_sp
+somatic mutation,"Gene level non-silent mutation (n=9,104)",https://tcga-pancan-atlas-hub.s3.us-east-1.amazonaws.com/download/mc3.v0.2.8.PUBLIC.nonsilentGene.xena.gz
+protein expression,"RPPA (n=7,744) ",https://tcga-pancan-atlas-hub.s3.us-east-1.amazonaws.com/download/TCGA-RPPA-pancan-clean.xena.gz
